@@ -1,5 +1,4 @@
 // StudentDAO.java
-// Handles database operations related to Student entities, such as adding, deleting, updating, and loading students from the database.
 
 import java.sql.*;
 import java.util.*;

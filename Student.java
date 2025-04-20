@@ -1,6 +1,4 @@
 // Student.java
-// Represents a Student object with details like Name, PRN, Age, and CGPA. 
-// It includes validation for these fields and throws custom exceptions for invalid data.
 
 import customexceptions.*;
 import javax.naming.InvalidNameException;

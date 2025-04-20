@@ -1,5 +1,4 @@
 // StudentOperations.java
-// Handles Student operations with validation, custom exceptions, and DB synchronization.
 
 import java.util.*;
 import customexceptions.*;

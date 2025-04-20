@@ -1,5 +1,4 @@
 // DBConnection.java
-// Utility class to manage the database connection.
 
 import java.sql.Connection;
 import java.sql.DriverManager;
